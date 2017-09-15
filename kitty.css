@@ -1,1 +1,34 @@
+body {
+	background-color: black;
+	background-image: url(images/wallpaper.gif);
+	background-size:100% auto;
+}
+
+.kitten {
+	content:url(images/kitten-large.png);
+}
+
+@media only screen and (max-width: 1000px) {
+	.kitten {
+		content: url(images/kitten-large.png);
+	}
+}
+
+@media only screen and (max-width: 800px) {
+	.kitten {
+		content: url(images/kitten-medium.png);
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.kitten {
+		content: url(images/kitten-small.png);
+	}
+}
+
+@media only screen and (max-width: 400px) {
+	.kitten {
+		content: url(images/kittyloaf.gif);
+	}
+}
 
