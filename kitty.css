@@ -5,7 +5,7 @@ body {
 }
 
 .kitten {
-	content:url(images/kitten-large.png);
+	content:url(https://user-images.githubusercontent.com/25018540/30505437-864c858c-9a29-11e7-9c05-833b39917a89.png);
 }
 
 @media only screen and (max-width: 1000px) {
