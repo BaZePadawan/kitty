@@ -16,7 +16,7 @@ body {
 
 @media only screen and (max-width: 800px) {
 	.kitten {
-		content: url(images/kitten-medium.png);
+		content: url(https://user-images.githubusercontent.com/25018540/30505543-3196562a-9a2a-11e7-8797-5cd184779296.png);
 	}
 }
 
